@@ -7,3 +7,5 @@ Vous pourrez y trouver, entre autre :
 * les conditions générales de vente
 * les conditions particulières de services précisant les conditions relatives à certaines catégories de services
 * le document de conformité RGPD
+
+YULPA est une marque commerciale de la société Alsatis Services.
